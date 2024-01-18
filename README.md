@@ -26,7 +26,6 @@ This password generator project provides a user-friendly interface for generatin
 This project is licensed under the MIT License.
 
 ## Url
-* https://github.com/gelisimduygusu/Password-Generator-Project.git
 * https://gelisimduygusu.github.io/Password-Generator-Project/
 
 <img width="698" alt="Screenshot 2024-01-18 at 23 01 21" src="https://github.com/gelisimduygusu/Password-Generator-Project/assets/151784243/516775dc-6f98-46d9-a467-e43ccf6987ee">
